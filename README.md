@@ -67,7 +67,7 @@ Input (Webcam) → Preprocessing → SVM Model → Output (CSV + Live Display)
 
 ## 7. Results / Output
 
-**Project Demo Video**: https://youtu.be/F3zdZi5-uAA
+**Project Demo Video**: https://youtube.com/shorts/DaqJ-bUnGNg
 
 - **System output**: Annotated live video showing detected faces with name and confidence score. Green box = recognised, Red box = unknown. FPS and inference time overlaid on frame.
 - **Performance metrics**:
