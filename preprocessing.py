@@ -4,7 +4,7 @@ from config import FACE_IMAGE_SIZE
 
 
 def prepare_face(gray_roi: np.ndarray,
-                 target_size: tuple = FACE_IMAGE_SIZE) -> np.ndarray | None:
+                 target_size: tuple = FACE_IMAGE_SIZE)
 
     if gray_roi is None or gray_roi.size == 0:
         return None
